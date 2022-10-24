@@ -1,1 +1,1 @@
-# tickets
+# tickets - css is a simple card design with an integrated image slider that can serve for product listings. 
